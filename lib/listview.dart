@@ -1,3 +1,5 @@
+//Programming By Leonel 
+
 import 'package:flutter/material.dart';
 
 class Lista extends StatelessWidget {
@@ -16,8 +18,6 @@ class BodyLayout extends StatelessWidget {
     return _myListView(context);
   }
 }
-
-
 
 Widget _myListView(BuildContext context) {
 
